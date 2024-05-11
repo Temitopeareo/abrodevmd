@@ -1,5 +1,5 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/Temiitope/abrodevmd.git /root/
+RUN git clone https://github.com/Temiitope/abrodevmd.git /root/Temitopereo
 WORKDIR /root/Temitopeareo
 RUN npm install
 EXPOSE 8000
